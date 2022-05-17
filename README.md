@@ -2,8 +2,9 @@
 Oxford Nanopore Promethion run summary
 
 
-## usage: getRunSummary.py [-h] [--host HOST] [--port PORT] [--exid EXID]
+## usage: 
 
+getRunSummary.py [-h] [--host HOST] [--port PORT] [--exid EXID]
 Run Summary Script
 
 optional arguments:
